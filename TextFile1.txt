@@ -1,2 +1,5 @@
 #This file is created by Yohannes while learning git version controler
-configering githube with local git 
+configering githube with local git
+
+Yohannes
+Morian

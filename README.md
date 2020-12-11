@@ -5,5 +5,6 @@ Some description for test
 This is just to test the branching function
 i will try to perform pull requests for verification from the responsibel person
 
-##edited from local git program
-test one
+Edited from local git program
+--Test one
+Yohannes
